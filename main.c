@@ -16,4 +16,4 @@ int main (void)
 }
 
 /*se agrego una libreria  
-Juan Pablo cruz 15 marzo 2019*/
+Juan Pablo cruz 16 marzo 2019*/
