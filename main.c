@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define VARIABLE 0
 #define VARIABLE 2
 #define VARIABLE 3
 
@@ -9,9 +8,9 @@
 */
 
 
-int main (void)
+void main (void)
 {
-	return 0;
+	printf("Hello World");
 }
 
 /*se agrego una libreria  
