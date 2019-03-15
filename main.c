@@ -4,7 +4,6 @@
 #define VARIABLE 0
 #define VARIABLE 2
 #define VARIABLE 3
-#define VARIABLE 5
 
 /*Ya hay cambios
 */
@@ -17,3 +16,5 @@ int main (void)
 
 /*se agrego una libreria  
 Juan Pablo cruz 16 marzo 2019*/
+
+/*Segunda modificación*/
