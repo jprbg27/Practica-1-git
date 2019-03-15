@@ -1,12 +1,13 @@
 #include <stdio.h>
-#include <stdlib.h>
-
+#define VARIABLE 1
 #define VARIABLE 2
 #define VARIABLE 3
+#define VARIABLE 4
+#define VARIABLE 5
 
 /*Ya hay cambios
 */
-
+int suma(int a, int b);
 
 void main (void)
 {
