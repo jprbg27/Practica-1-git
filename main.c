@@ -8,7 +8,7 @@
 /*Ya hay cambios
 */
 
-#define PATH "proc\kmsg"
+
 int main (void)
 {
 	return 0;
